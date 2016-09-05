@@ -2,3 +2,4 @@
 .idea/
 typings/
 node_modules/
+dist/
